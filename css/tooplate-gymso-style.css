@@ -1,8 +1,9 @@
 /*
 
 Tooplate 2119 Gymso Fitness
+dropsound 2021 Lusteri Band 
 
-https://www.tooplate.com/view/2119-gymso-fitness
+https://www.lusteriband.com
 
 */
 
@@ -236,6 +237,10 @@ https://www.tooplate.com/view/2119-gymso-fitness
   .modal-footer {
     border: 0;
     padding: 0;
+  }
+
+  .modal-body > a {
+    height: 120px;
   }
 
   .membership-form a {
